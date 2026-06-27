@@ -1,0 +1,28 @@
+print("-" * 28)
+print("\t3-Line Message Box \t")
+print("Get","Set","Go",sep = " | ")
+print("-" * 28)
+
+print("-" * 28)
+print("\tBill Generator")
+print("Salt", 18,sep = "\t----> ",end=" Rs.\n")
+print("Sugar", 20,sep = "\t----> ",end=" Rs.\n")
+print("Milk", 30,sep = "\t----> ",end=" Rs.\n")
+print("Cofee Powder", 10,sep = "\t ----> ",end=" Rs.\n")
+print("-" * 28)
+
+print("-" * 35)
+print("\tStudent Report Card")
+print("In maths",80,sep = "\t-----> ",end = " marks\n")
+print("In english",96,sep = "\t-----> ",end = " marks\n")
+print("In science",76,sep = "\t-----> ",end = " marks\n")
+print("\twell done.....")
+print("-" * 35)
+
+print("=" * 45)
+print("\tThe Fitness Workout Tracker Dashboard")
+print("Pushup",25,sep ="\t----> ",end = "reps\n")
+print("Squats",30,sep ="\t----> ",end = "reps\n")
+print("Running",15,sep ="\t----> ",end = "min\n")
+print("=" * 45)
+
