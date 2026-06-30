@@ -66,7 +66,8 @@ print(lang[17])
 # print(lang[18]) throws an error because the 18th character is not present
 
 sentence = "A string is a sequence of characters surrounded by either single or double quotation marks."
-# if i want to access all character of above variablenamed sentence instead of writing indexing manually
+# if i want to access all character of above variable named sentence instead of writing indexing manually
 # we can use for loop 
 for character in sentence:
     print(character) # here all sentence character are going to character and printing it one by one
+
